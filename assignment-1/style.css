@@ -2,3 +2,15 @@ html {
   height: 100%;
   width: 100%;
 }
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.form-inline {
+  padding: 20px;
+  float: right;
+}
+.btn-success {
+  margin: 20px;
+  margin-left: 10px;
+}
